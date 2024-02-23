@@ -1,4 +1,4 @@
-print("Bienvenido al programa para encontrar el numero mayor");
+print("Bienvenido al programa para encontrar el numero mayor de tres numeros");
 
 num1 = input("Ingrese el numero 1: ");
 num2 = input("Ingrese el numero 2: ");
